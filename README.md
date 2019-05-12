@@ -20,7 +20,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+`KhuiViewTool::Renderer.copyright("Kevin Hui", "All Rights Reserved")`
 
 ## Development
 
